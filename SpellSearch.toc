@@ -1,0 +1,10 @@
+## Interface: 100002
+
+## Title : _Spell Search
+## Notes: This AddOn allows users to search for spells by name.
+
+## Version: 0.1
+
+## Author: Markus Rutström
+
+SpellSearch.lua
