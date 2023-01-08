@@ -8,3 +8,16 @@
 ## Author: Markus Rutström
 
 SpellSearch.lua
+data/DeathKnight.lua
+data/DemonHunter.lua
+data/Druid.lua
+data/Evoker.lua
+data/Hunter.lua
+data/Mage.lua
+data/Monk.lua
+data/Paladin.lua
+data/Priest.lua
+data/Rogue.lua
+data/Shaman.lua
+data/Warlock.lua
+data/Warrior.lua
